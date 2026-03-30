@@ -2,7 +2,7 @@ import socket
 import json
 
 IP = "127.0.0.1"
-PORTA = 65432
+PORTA = 22224
 DIM_BUFFER = 1024
 
 # Creazione della socket del server con il costrutto with
